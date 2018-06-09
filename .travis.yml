@@ -1,7 +1,5 @@
 language: php
-sudo: required
-dist: trusty
-group: deprecated-2017Q4
+dist: precise
 
 services:
   - redis-server
